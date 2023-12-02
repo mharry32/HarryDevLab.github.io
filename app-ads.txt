@@ -164,3 +164,12 @@ thebrave.io, 1234678, RESELLER, c25b2154543746ac
 thunder-monetize.com, 3962740416, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
 xandr.com, 14082, RESELLER
+applovin.com, 5fd7f479bcc8735f31bd3ee699280eeb, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
